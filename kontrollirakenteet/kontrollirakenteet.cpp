@@ -19,7 +19,6 @@ using namespace std;
 //tietueet
 struct MOBIILIPELI
 {
-
 	string nimi;
 	string julkaisija;
 	float hinta;
